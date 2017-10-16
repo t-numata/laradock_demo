@@ -143,7 +143,7 @@ MARIADB_ENTRYPOINT_INITDB=./mariadb/docker-entrypoint-initdb.d
 
 ### POSTGRES ###########################################################################################################
 
-POSTGRES_DB=default
+POSTGRES_DB=laradock_demo
 POSTGRES_USER=default
 POSTGRES_PASSWORD=secret
 POSTGRES_PORT=5432
